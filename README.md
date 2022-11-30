@@ -6,6 +6,4 @@ Updates made on GitHub
 
 ## Repository Purpose
 
-This will be a change that conflicts
-with whatever is on the remote side (GitHub)
-This was edited locally.
+this file is just a readme file
